@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "391300877552",
+    "firebase_url": "https://fomerecife-b0b9b-default-rtdb.firebaseio.com",
+    "project_id": "fomerecife-b0b9b",
+    "storage_bucket": "fomerecife-b0b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391300877552:android:3f608f1b1b48f47045c635",
+        "android_client_info": {
+          "package_name": "com.example.cancerdemama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtrpGqyNdgauP5ME9w7wWYrQiOzZug32o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391300877552:android:50def1ed26c96f3745c635",
+        "android_client_info": {
+          "package_name": "com.example.recifefome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtrpGqyNdgauP5ME9w7wWYrQiOzZug32o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

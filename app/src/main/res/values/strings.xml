@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CancerDeMama</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="email">Email</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="ia">Como deseja colaborar?</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="cadastropronto">Já possui cadastro? Logue-se agora!</string>
+    <string name="inicio">Início</string>
+    <string name="entrar">Entrar</string>
+    <string name="semcadastro">Não possui cadastro? Cadastre-se agora!</string>
+    <string name="jaemuso">Este nome de usuário já está em uso!</string>
+    <string name="campoobrigatorio">Preencha todos os campos obrigatórios!</string>
+    <string name="cadastrorealizado">Cadastro realizado com sucesso!</string>
+    <string name="loginrealizado">Login realizado com sucesso!</string>
+    <string name="falhalogin">Falha no login. Verifique o usuário e senha.</string>
+    <string name="tentetarde">Falha no login. Tente novamente mais tarde.</string>
+    <string name="emaillista">Email:</string>
+    <string name="opiniaolista">Colaboração:</string>
+    <string name="usuariolista">Usuario:</string>
+    <string name="textoambiente">Projeto de intervenção para a prevenção do câncer de mama.</string>
+    <string name="erro">erro\n</string>
+    <string name="nome">Nome</string>
+    <string name="nome2">Nome:</string>
+</resources>
